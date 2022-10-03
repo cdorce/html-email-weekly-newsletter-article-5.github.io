@@ -1,0 +1,9 @@
+ARTICLES
+
+https://email2go.io/blog/html-email-template-fonts
+
+https://mailtrap.io/blog/embedding-images-in-html-email-have-the-rules-changed/
+
+https://medium.com/applantic/painless-html-email-coding-fdbe2fcc56b8
+
+https://designmodo.com/code-responsive-email-template/
